@@ -8,6 +8,7 @@ You type something like "show me all students with marks above 80" and the app f
 
 Works with either a local SQLite database (a `student.db` file bundled with the project) or your own MySQL database, switchable from the sidebar.
 
+try it here: [https://langchain-chatsql-123.streamlit.app/](https://langchain-chatsql-123.streamlit.app/)
 ## Setup
 
 Clone the repo and install dependencies:
